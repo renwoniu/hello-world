@@ -4,4 +4,5 @@ Just another repository
 Try to edit this file to make some fun.
 
 
-commit 9
+commit 9 after merge
+
